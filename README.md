@@ -1,0 +1,2 @@
+# Introduction_to_Multivariate_Functions
+多元函数入门攻略，分为上和下。主要讲述高等数学多元函数基本概念及它们之间的关系，附带例题和不常见的反例
